@@ -30,3 +30,4 @@ _ReSharper*/
 virtualenv*
 db.sqlite3
 *.pyc
+static/*
